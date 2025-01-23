@@ -11,4 +11,5 @@ const workspace = Blockly.inject('blocklyDiv', {
       <block type="text"></block>
     </xml>
   `,
+  horizontalLayout: true
 });
